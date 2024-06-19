@@ -30,6 +30,7 @@ A console-based application in C for managing an inventory system for sweets. Th
    gcc main.c admin_curd.c change_pwd.c log_in.c menu_view.c -o menu_view.exe
    
 3. **Run the program:**
+   
    ``bash
    ./admin.exe
    ./user_order.exe
@@ -60,15 +61,18 @@ A console-based application in C for managing an inventory system for sweets. Th
 Contributions are welcome! Please follow these steps to contribute:
 
 1. **Fork the repository.**
+   
 2. **Create your feature branch**
   ```sh
   git checkout -b feature/your-feature-name
 
 3. **Commit your changes**
+
   ```sh
   git commit -am 'Add some feature
 
 4. **Push to the branch**
+
   ```sh
   git push origin feature/your-feature-name
 
