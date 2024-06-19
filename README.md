@@ -43,18 +43,18 @@ A console-based application in C for managing an inventory system for sweets. Th
 - Create orders for sweets and view detailed inventory information.
 
 ## File Structure
+
    ```
     sweets-inventory/
-    ├── admin_driver.c       # Main program file handling menu and flow
-    ├── admin_curd.c         # CRUD operations for sweets management
-    ├── change_pwd.c         # Password management and security question operations
-    ├── log_in.c             # User authentication and login functionality
-    ├── menu_view.c          # View functionalities for displaying inventory and orders
-    ├── menu2.c              # View functionalities for displaying inventory and orders
-    ├── user.c               # User realted codes
-    └── user_order.c         # User Client main program
+    ├── admin_driver.c       
+    ├── admin_curd.c         
+    ├── change_pwd.c         
+    ├── log_in.c             
+    ├── menu_view.c          
+    ├── menu2.c              
+    ├── user.c               
+    └── user_order.c
 
-<br>
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
