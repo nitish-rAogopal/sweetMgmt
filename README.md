@@ -46,14 +46,14 @@ A console-based application in C for managing an inventory system for sweets. Th
 
    ```
     sweets-inventory/
-    ├── admin_driver.c       
-    ├── admin_curd.c         
-    ├── change_pwd.c         
-    ├── log_in.c             
-    ├── menu_view.c          
-    ├── menu2.c              
-    ├── user.c               
-    └── user_order.c
+   ├── admin_driver.c       # Main program file handling menu and flow
+   ├── admin_curd.c         # CRUD operations for sweets management
+   ├── change_pwd.c         # Password management and security question operations
+   ├── log_in.c             # User authentication and login functionality
+   ├── menu_view.c          # View functionalities for displaying inventory and orders
+   ├── menu2.c              # Additional view functionalities for displaying inventory and orders
+   ├── user.c               # User related code
+   └── user_order.c         # User Client main program
    ```
 
 ## Contributing
