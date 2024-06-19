@@ -24,9 +24,11 @@ A console-based application in C for managing an inventory system for sweets. Th
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/nitish-rAogopal/sweetMgmt.git
+   
 2. **Compile the program:**
    ```bash
    gcc main.c admin_curd.c change_pwd.c log_in.c menu_view.c -o menu_view.exe
+   
 3. **Run the program:**
    ``bash
    ./admin.exe
@@ -61,18 +63,23 @@ Contributions are welcome! Please follow these steps to contribute:
 2. **Create your feature branch**
   ```sh
   git checkout -b feature/your-feature-name
+
 3. **Commit your changes**
   ```sh
   git commit -am 'Add some feature
+
 4. **Push to the branch**
   ```sh
   git push origin feature/your-feature-name
+
 5. **Open a pull request.**
   
 ## Author
+
 Nitish Kumar <br>
 nitish.raogopal@gmail.com | https://github.com/nitish-rAogopal/<br>
 Project link: https://github.com/nitish-rAogopal/sweetMgmt/
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
