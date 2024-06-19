@@ -31,7 +31,7 @@ A console-based application in C for managing an inventory system for sweets. Th
    
 3. **Run the program:**
    
-   ``bash
+   ```bash
    ./admin.exe
    ./user_order.exe
 
@@ -54,6 +54,7 @@ A console-based application in C for managing an inventory system for sweets. Th
     ├── menu2.c              
     ├── user.c               
     └── user_order.c
+   ```
 
 ## Contributing
 
