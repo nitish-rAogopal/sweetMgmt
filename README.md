@@ -40,7 +40,8 @@ A console-based application in C for managing an inventory system for sweets. Th
 - Create orders for sweets and view detailed inventory information.
 
 ## File Structure
-  ```bash
+
+     ```
      sweets-inventory/
      │
      ├── admin_driver.c       # Main program file handling menu and flow
@@ -51,7 +52,6 @@ A console-based application in C for managing an inventory system for sweets. Th
      ├── menu2.c              # View functionalities for displaying inventory and orders
      ├── user.c               # User realted codes
      └── user_order.c         # User Client main program
-
 
 ## Contributing
 
